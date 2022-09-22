@@ -1,2 +1,2 @@
-# ProgII-2022-Nuevo
-Repositorio de Porgrmacion II actualizado
+# Laboratorio II_SQL
+Repositorio de Laboratorio II - SQL
