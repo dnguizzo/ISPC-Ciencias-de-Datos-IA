@@ -1,2 +1,2 @@
-# Laboratorio II_SQL
-Repositorio de Laboratorio II - SQL
+# ISPC
+Repositorio de Politecnico ISPC
